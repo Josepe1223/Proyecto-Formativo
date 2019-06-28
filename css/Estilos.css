@@ -31,6 +31,7 @@ input {
     padding: 7px;
     box-sizing: border-box;
     border: none;
+    border-radius: 20px;
 }
 
 #boton{
@@ -44,7 +45,8 @@ input {
 textarea{
 	max-width:100px;
 	max-height:200px;
-	max-width:100%; 
+    max-width:100%; 
+    border-radius: 20px;
 }
 h2{
 	text-align:center;
